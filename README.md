@@ -9,3 +9,7 @@ To deploy this project on the website run:
 
 https://tausinn.github.io/background---changer/
 
+## Preview
+
+![App Screenshot]![IMG_0049](https://github.com/user-attachments/assets/1b4823b6-393f-473f-aac3-23483ecda5b8)
+
